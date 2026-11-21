@@ -1,0 +1,6 @@
+{
+  "name": "Bé Lái Xe Khám Phá",
+  "description": "Game giáo dục 3D giúp trẻ em tiểu học học biển báo giao thông Việt Nam và kỹ năng chọn đường đi qua chuyến phiêu lưu lái xe vui nhộn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
