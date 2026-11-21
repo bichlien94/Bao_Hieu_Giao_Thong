@@ -6,8 +6,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    // This app is hosted as a project site at /cuaem/ on GitHub Pages.
-    base: '/cuaem/',
+    // GitHub Pages serves this project under its repository name.
+    base: '/Bao_Hieu_Giao_Thong/',
     plugins: [
       react(),
       tailwindcss(),
